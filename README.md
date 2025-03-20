@@ -24,13 +24,13 @@
   <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400" style="display: inline-block; margin-right: 10px;"/>
   <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png" width="400" style="display: inline-block;"/>
 </p>
-<p>
-<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png" width="400"/>
- <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/BetweenFilter.png" width="400"/>
+<p align="center">
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png" width="400 style="display: inline-block; margin-right: 10px;"/>
+ <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/BetweenFilter.png" width="400  style="display: inline-block;"/>
 </p>
-<p>
-<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400"/>
- <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/LessThan.png" width="400"/>
+<p align="center">
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400 style="display: inline-block; margin-right: 10px;"/>
+ <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/LessThan.png" width="400  style="display: inline-block;"/>
 </p>
 
 
