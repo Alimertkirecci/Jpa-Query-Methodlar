@@ -18,6 +18,26 @@
 | SPRİNG  | LESSTHAN METHODU  |
 | ------------ | ------------ |
 | LESSTHAN  | Spring Data JPA'da belirli bir değerden küçük olan tüm kayıtları sorgulamak için kullanılır.   |
+
+
+
+|<p>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400"/>
+</p>    | <p>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png" width="400"/>
+</p>  |
+| ------------ | ------------ |
+|  |   |
+
+
+
+
+
+
+
+
+
+
 <p>
 <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400"/>
 </p>
