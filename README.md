@@ -12,7 +12,7 @@
 | ------------ | ------------ |
 | Like  | Spring Data JPA'da "Like metodu", belirli bir desene (pattern) uyan verileri veritabanından sorgulamak için kullanılan bir yöntemdir.  |
 <p>
-<img src="https://github.com/kasimduyar/Jpa-Query-Methodlari/MYEXAM/src/main/java/com/example/Proje Fotograflar/like.png](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png" width="400"/>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png" width="400"/>
 </p>
 
 | SPRİNG  | NOTLİKE METHODU  |
@@ -20,7 +20,7 @@
 | NOTLİKE  | Spring Data JPA'da "NotLike metodu", belirli bir desene uymayan (eşleşmeyen) verileri sorgulamak için kullanılır. SQL'deki NOT LIKE operatörüne karşılık gelir.  |
 
 <p>
-<img src="https://github.com/kasimduyar/Jpa-Query-Methodlari/blob/master/images/NotLikeSonHali.png](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png" width="400"/>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png" width="400"/>
 </p>
 
 | SPRİNG  | BETWEEN METHODU  |
@@ -36,5 +36,5 @@
 | GREATERTHAN  | Spring Data JPA'da "GreaterThan metodu", belirli bir değerden büyük olan kayıtları sorgulamak için kullanılır. SQL'deki **> (büyüktür) operatörüne karşılık gelir.  |
 
 <p>
-<img src="https://github.com/kasimduyar/Jpa-Query-Methodlari/blob/master/images/GREATERSON.png](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400"/>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400"/>
 </p>
