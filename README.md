@@ -20,10 +20,8 @@
 | LESSTHAN  | Spring Data JPA'da belirli bir değerden küçük olan tüm kayıtları sorgulamak için kullanılır.   |
 
 
-
-| ![Resim 1]([https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png)) | ![Resim 2]([https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png)) |
-|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-
+ | ![[Resim 1](https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400")) | ![Resim 2]([https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png)) |
+|---------------------------------------------|---------------------------------------------|
 
 
 
