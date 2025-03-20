@@ -21,13 +21,8 @@
 
 
 
-|<p>
-<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400"/>
-</p>    | <p>
-<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png" width="400"/>
-</p>  |
-| ------------ | ------------ |
-|  |   |
+| ![Resim 1]([https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png)) | ![Resim 2]([https://via.placeholder.com/150](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/like.png)) | ![Resim 3](https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/NotLije.png) |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 
 
 
