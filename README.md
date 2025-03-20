@@ -50,15 +50,5 @@
 
 
 
+
  
-
-
-
-
-
-
-
-
-<p>
-<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400"/>
-</p>
