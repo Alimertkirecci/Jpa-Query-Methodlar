@@ -2,7 +2,7 @@
 
 | SPRİNG | Sanal Data Kullanım Alanı |
 | ------------ | ------------ |
-|Spring Data|Mackarooo Ve Api Development|
+|Mackarooo Ve Api Development| Mackaroo bizim için istediğimiz şekilde datalar oluşturan bir yapıdır. Api Devopment Postmen Üzerinden Attığımız istekler ile projemize gelişim imkanı sunar.|
 <p>
 <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/PostmanApi.png" width="400"/>
 </p>
@@ -34,6 +34,30 @@
 | SPRİNG  | GREATERTHAN METHODU  |
 | ------------ | ------------ |
 | GREATERTHAN  | Spring Data JPA'da "GreaterThan metodu", belirli bir değerden büyük olan kayıtları sorgulamak için kullanılır. SQL'deki **> (büyüktür) operatörüne karşılık gelir.  |
+
+
+
+
+| SPRİNG  | LESSTHAN METHODU  |
+| ------------ | ------------ |
+| GREATERTHAN  | Spring Data JPA'da belirli bir değerden küçük olan tüm kayıtları sorgulamak için kullanılır.   |
+
+<p>
+<img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/LessThan.png" width="400"/>
+</p>
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 <p>
 <img src="https://github.com/Alimertkirecci/Jpa-Query-Methodlar/blob/main/MYEXAM/src/main/java/com/example/Proje%20Fotograflar/GreaterThan1.png" width="400"/>
